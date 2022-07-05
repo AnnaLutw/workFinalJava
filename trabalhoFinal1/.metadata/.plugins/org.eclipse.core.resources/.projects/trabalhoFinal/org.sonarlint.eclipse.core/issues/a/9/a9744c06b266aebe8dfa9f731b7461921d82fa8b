@@ -1,0 +1,73 @@
+
+k	java:S106O"9Replace this use of System.out or System.err by a logger.(˜Í¢æ8Œ‘¸†›0Hğ
+RMAJORZ
+CODE_SMELL
+M
+java:S1116"Remove this empty statement.(ª©œùÿÿÿÿHñ
+RMINORZ
+CODE_SMELL
+
+java:S1192Œ"TDefine a constant instead of duplicating this literal " e o lucro foi de: " 8 times.(Íêóìıÿÿÿÿ8Œ‘¸†›0Hó
+RCRITICALZ
+CODE_SMELL
+}	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(¼Ì’ìüÿÿÿÿHü
+RMINORZ
+CODE_SMELL
+j
+java:S61261"2Replace this String concatenation with Text block.(ŸÒ‚ûÿÿÿÿ8Œ‘¸†›0Hı
+RMAJORZ
+CODE_SMELL
+y
+java:S1659"HDeclare "totalVendas" and all following declarations on a separate line.(ª©œùÿÿÿÿHş
+RMINORZ
+CODE_SMELL
+X
+java:S11256"'Remove the unnecessary boolean literal.(åî”ÿÿÿÿÿH‚RMINORZ
+CODE_SMELL
+i	java:S106M"9Replace this use of System.out or System.err by a logger.(ì²äöüÿÿÿÿH„RMAJORZ
+CODE_SMELL
+k	java:S106^"9Replace this use of System.out or System.err by a logger.(©êÚ¬8ƒ¿ãàš0H…RMAJORZ
+CODE_SMELL
+k	java:S1068"9Replace this use of System.out or System.err by a logger.(ØŸ‘û8¼À»àš0H†RMAJORZ
+CODE_SMELL
+p	java:S106P"9Replace this use of System.out or System.err by a logger.(² °¨ÿÿÿÿÿ8Œ‘¸†›0H‡RMAJORZ
+CODE_SMELL
+|
+java:S2095Š"HUse try-with-resources or close this "FileWriter" in a "finally" clause.(¯Ôíıÿÿÿÿ8Í“æâš0HˆRBLOCKERZBUG
+l	java:S106–"9Replace this use of System.out or System.err by a logger.(ÆÀûı8×Ó·ˆ›0H‰RMAJORZ
+CODE_SMELL
+J
+java:S1659,"Declare "i" on a separate line.(Í¶!HŠRMINORZ
+CODE_SMELL
+j	java:S106¡"9Replace this use of System.out or System.err by a logger.(½«À„ıÿÿÿÿHŒRMAJORZ
+CODE_SMELL
+k	java:S106?"9Replace this use of System.out or System.err by a logger.(ˆ¨à8­€áš0HRMAJORZ
+CODE_SMELL
+k	java:S106N"9Replace this use of System.out or System.err by a logger.(ø£äç8ƒ¿ãàš0HRMAJORZ
+CODE_SMELL
+k	java:S1060"9Replace this use of System.out or System.err by a logger.(ÆÀûı8±éÍàš0HRMAJORZ
+CODE_SMELL
+k	java:S106L"9Replace this use of System.out or System.err by a logger.(Èˆêê8Œ‘¸†›0HRMAJORZ
+CODE_SMELL
+
+java:S1488k"]Immediately return this expression instead of assigning it to the temporary variable "lucro".(›ÃÜË8ÓÃ¥áš0H‘RMINORZ
+CODE_SMELL
+\	java:S131R""Add a default case to this switch.(®ÚÕ…ÿÿÿÿÿ8Œ‘¸†›0H”RCRITICALZ
+CODE_SMELL
+j	java:S106€"9Replace this use of System.out or System.err by a logger.(½«À„ıÿÿÿÿH•RMAJORZ
+CODE_SMELL
+i	java:S106:"9Replace this use of System.out or System.err by a logger.(«²²ÆıÿÿÿÿH–RMAJORZ
+CODE_SMELL
+e
+java:S1199c"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ8âåÂâš0H—RMINORZ
+CODE_SMELL
+{
+java:S2095y"HUse try-with-resources or close this "FileWriter" in a "finally" clause.(´âçÎùÿÿÿÿ8‰›‡ãš0H˜RBLOCKERZBUG
+`	java:S108c")Either remove or fill this block of code.(ÒÌâ–øÿÿÿÿ8Åââš0H™RMAJORZ
+CODE_SMELL
+Š	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ŒêãùşÿÿÿÿHšRMINORZ
+CODE_SMELL
+k	java:S106<"9Replace this use of System.out or System.err by a logger.(ÄÀğ“8‰›‡ãš0H›RMAJORZ
+CODE_SMELL
+k	java:S106s"9Replace this use of System.out or System.err by a logger.(¸ìÆú8×Ó·ˆ›0HœRMAJORZ
+CODE_SMELL
